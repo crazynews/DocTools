@@ -1,6 +1,6 @@
 # DocTools
 
-Our software will make document creation a pleasure.
+Our software will make document creation a pleasure.<br>
 Now with just one click you can create a thesis model !
 We insisted on creating an application that was as comfortable and compact as possible !
 We take care of your time !
